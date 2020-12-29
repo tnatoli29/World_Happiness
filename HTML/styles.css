@@ -1,0 +1,31 @@
+.navbar{
+    position: absolute;
+    right: 40px;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+    }
+
+.navbar {
+  background-color: lightblue;
+  }
+
+.divtop{
+  background-color: lightblue;
+  z-index:2;}
+
+.homebutton{
+  background-color: lightblue;
+  z-index:2;}
+
+.homebutton a{
+  width: 250px;
+  background: green;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 14px;
+  margin: 0px 0px 0px 40px;}
