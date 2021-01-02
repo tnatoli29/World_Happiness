@@ -1872,4 +1872,3 @@ var data2019 = [
     "Perceptions of corruption": 0.091
   }
 ]
-]
